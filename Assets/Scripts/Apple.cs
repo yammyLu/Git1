@@ -7,7 +7,7 @@ public class Apple : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("apples");
+        print("an apple");
     }
 
     // Update is called once per frame
