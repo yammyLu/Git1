@@ -309,7 +309,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1394937457
+=======
+--- !u!1 &1042492073
+>>>>>>> TestBranch
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -317,10 +321,17 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1394937461}
   - component: {fileID: 1394937460}
   - component: {fileID: 1394937459}
   - component: {fileID: 1394937458}
+=======
+  - component: {fileID: 1042492077}
+  - component: {fileID: 1042492076}
+  - component: {fileID: 1042492075}
+  - component: {fileID: 1042492074}
+>>>>>>> TestBranch
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -328,13 +339,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!65 &1394937458
+=======
+--- !u!65 &1042492074
+>>>>>>> TestBranch
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1394937457}
+=======
+  m_GameObject: {fileID: 1042492073}
+>>>>>>> TestBranch
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -349,13 +368,21 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1394937459
+=======
+--- !u!23 &1042492075
+>>>>>>> TestBranch
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1394937457}
+=======
+  m_GameObject: {fileID: 1042492073}
+>>>>>>> TestBranch
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -391,21 +418,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 --- !u!33 &1394937460
+=======
+--- !u!33 &1042492076
+>>>>>>> TestBranch
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1394937457}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1394937461
+=======
+  m_GameObject: {fileID: 1042492073}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1042492077
+>>>>>>> TestBranch
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1394937457}
+=======
+  m_GameObject: {fileID: 1042492073}
+>>>>>>> TestBranch
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -452,4 +493,8 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 1494526442}
+<<<<<<< HEAD
   - {fileID: 1394937461}
+=======
+  - {fileID: 1042492077}
+>>>>>>> TestBranch
